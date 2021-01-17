@@ -1,3 +1,9 @@
+# Игра которая угадывает ваше число
+# Числа от 1 до 100 и подсчитывает количество попыток
+
+# A game that guesses your number
+# Numbers from 1 to 100 and counts the number of attempts
+
 import random
 
 print('Добро пожаловать в игру')
